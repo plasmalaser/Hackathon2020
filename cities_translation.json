@@ -1,0 +1,53 @@
+{
+    "translated_data" : [
+        { //cities = 区 (for 特别市)
+            "provinceName" : "Beijing",
+            "provinceName_CN" : "北京",
+            "cities" : {
+                "东城" : "DongCheng",
+                "西城" : "Xicheng",
+
+                //TODO
+            }
+        }
+
+        {
+            "provinceName" : "Hubei",
+            "provinceName_CN" : "湖北",
+            "cities" : {
+                "武汉" : "Wuhan",
+                //TODO
+            }
+        }
+
+        {
+            "provinceName" : "Guangdong",
+            "provinceName_CN" : "广东",
+            "cities" : {
+                "广州" : "Guangzhou",
+                //TODO
+            }
+        }
+
+        {
+            "provinceName" : "Henan",
+            "provinceName_CN" : "河南",
+            "cities" : {
+                "郑州" : "Zhengzhou",
+                //TODO
+            }
+        }
+
+    ]
+}
+
+/* Template:
+        {
+            "provinceName" : "Hubei",
+            "provinceName_CN" : "湖北",
+            "cities" : {
+                "武汉" : "Wuhan",
+                //TODO
+            }
+        }
+*/
